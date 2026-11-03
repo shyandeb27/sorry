@@ -1,0 +1,6 @@
+{
+  "name": "A Quiet Note",
+  "description": "A gentle, sincere single-page apology website with a soft, heartfelt tone and light/dark mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
